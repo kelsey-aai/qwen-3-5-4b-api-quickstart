@@ -1,0 +1,12 @@
+{
+  "name": "qwen-3-5-4b-api-quickstart",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node quickstart.mjs"
+  },
+  "dependencies": {
+    "openai": "^4.0.0"
+  }
+}
